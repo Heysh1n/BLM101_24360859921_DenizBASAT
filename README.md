@@ -70,7 +70,7 @@ Ardından kullanıcıdan bir metin girilmesi istenir.
 ## 📂 Proje Yapısı
 
 ```
-📦 BLM101_202312345_AhmetYilmaz
+📦     BLM101_24360859921_DenizBASAT
 ├── main.py                   # MAin 
 ├── README.md
 ├── Sunum.pdf
