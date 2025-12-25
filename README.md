@@ -19,7 +19,7 @@
 ## ▶ YouTube Linki
 
 🎥 **Sunum Videosu:**
-👉 [https://www.youtube.com/watch?v=abcdef12345](https://www.youtube.com/watch?v=abcdef12345)
+👉 [[https://www.youtube.com/watch?v=xL0ESUYa0ug](https://www.youtube.com/watch?v=xL0ESUYa0ug)]
 
 ---
 
@@ -70,7 +70,7 @@ Ardından kullanıcıdan bir metin girilmesi istenir.
 ## 📂 Proje Yapısı
 
 ```
-📦 BLM101_202312345_AhmetYilmaz
+📦     BLM101_24360859921_DenizBASAT
 ├── main.py                   # MAin 
 ├── README.md
 ├── Sunum.pdf
