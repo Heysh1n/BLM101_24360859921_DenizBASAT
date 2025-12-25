@@ -31,7 +31,7 @@ Bu projede, **Run-Length Encoding (RLE)** yöntemi ile bir metin sıkıştırıl
 
 ```
 Girdi  : AAAAABBBCCDAA
-Çıktı  : 5A3B2C1D2A
+Çıktı  : 5:A3:B2:C1:D2:A
 ```
 
 Program ayrıca **sıkıştırma oranını (%)** hesaplar.
@@ -70,17 +70,17 @@ Ardından kullanıcıdan bir metin girilmesi istenir.
 ## 📂 Proje Yapısı
 
 ```
-📦     BLM101_24360859921_DenizBASAT
-├── main.py                   # MAin 
-├── README.md
-├── Sunum.pdf
+📦BLM101_24360859921_DenizBASAT
+├── main.py                   # The main file...
+├── README.md                 
+├── RLE-Sonum.pdf             # Guid-Book about Project and "RLE" 
 └── src
-    ├── modules 
-    |   └──rle
+    ├── modules               # Modules of project with option to add other modules not only RLE
+    |   └──rle                # RLE modules for working 
     |      ├── encode.py
     │      ├── decode.py
     │      └── percent.py
     |
-    └── config
+    └── config                # Config file for customize any info
         └── config.py
 ```
