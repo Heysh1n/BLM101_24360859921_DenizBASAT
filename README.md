@@ -19,7 +19,7 @@
 ## ▶ YouTube Linki
 
 🎥 **Sunum Videosu:**
-👉 [https://www.youtube.com/watch?v=abcdef12345](https://www.youtube.com/watch?v=abcdef12345)
+👉 [[https://www.youtube.com/watch?v=xL0ESUYa0ug](https://www.youtube.com/watch?v=xL0ESUYa0ug)]
 
 ---
 
