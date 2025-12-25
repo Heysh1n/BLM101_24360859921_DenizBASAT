@@ -1,9 +1,8 @@
 from src.modules.rle.encode import rle_encode
 from src.modules.rle.decode import rle_decode
 from src.modules.rle.percent import compression_percent
-from src.config.config import APP_NAME, VERSION, AUTHOR, STUDENT_ID, NUMBERS_ALLOWED
+from src.config.config import APP_NAME, VERSION, AUTHOR, STUDENT_ID, NUMBERS_ALLOWED, LOG_FILE
 
-LOG_FILE = "rle_log.txt"  # Log file name
 
 print(f"\n{APP_NAME} - v{VERSION} \n    by {AUTHOR} (ID: {STUDENT_ID}) \n")  # Display application name, version, author, and student ID
 
